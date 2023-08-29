@@ -1,5 +1,0 @@
-{{#user}}
-Name: Rakesh Sahoo
-Skills: Python, HTML/CSS, JavaScript, NodeJS, ExpressJS, JQuery, BootStrap, Git/GitHub, SQL, MongoDB
-Email: sahoorakeshkumar42@gmail.com
-{{/user}}
